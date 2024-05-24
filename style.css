@@ -17,6 +17,16 @@ header .container {
     align-items: center;
 }
 
+header .logo-title {
+    display: flex;
+    align-items: center;
+}
+
+header .logo {
+    max-height: 50px; /* Adjust the height according to your needs */
+    margin-right: 10px;
+}
+
 header nav ul {
     list-style: none;
     margin: 0;
